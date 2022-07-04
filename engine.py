@@ -151,3 +151,4 @@ def evaluate(model, criterion, postprocessors, data_loader, base_ds, device, out
     return stats, coco_evaluator
 
 print("Iam anyway printed")
+print("This is after tagging")
